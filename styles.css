@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+#tb{
+	border:2px solid;
+	height:100px;
+	width:500px;
+	background-color:darksalmon;
+}
+thead{
+	background-color:lightcyan;
+	text-align:left;
+}
